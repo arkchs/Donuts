@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-/// Flutter code sample for [ColorScheme.fromImageProvider] with content-based dynamic color.
+/// Needs to worked on before adding to the main logic
 
 const Widget divider = SizedBox(height: 10);
 const double narrowScreenWidthThreshold = 400;
@@ -361,9 +361,10 @@ class ColorSchemeView extends StatelessWidget {
                 color: colorScheme.onSurface,
                 onColor: colorScheme.surface),
             ColorChip(
-                label: 'onSurfaceVariant',
-                color: colorScheme.onSurfaceVariant,
-                onColor: colorScheme.surfaceContainerHighest),
+              label: 'onSurfaceVariant',
+              color: colorScheme.onSurfaceVariant,
+              // onColor: colorScheme.surfaceContainerHighest),
+            ),
           ],
         ),
         divider,
