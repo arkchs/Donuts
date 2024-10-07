@@ -1,16 +1,6 @@
 # donut
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Design
+Home Page | Details Page
+:-------------------------:|:-------------------------:
+![Screenshot_1725362186](https://github.com/user-attachments/assets/250d8818-0af1-4b1b-aab5-cf2670b2a174) | ![Screenshot_1725362182](https://github.com/user-attachments/assets/ccaaca5b-bf36-4daa-ba49-045c4c88ff37)
